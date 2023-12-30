@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024129936644",
+    "project_id": "linux-phone-store",
+    "storage_bucket": "linux-phone-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024129936644:android:e5893c4f0503b4d9c53451",
+        "android_client_info": {
+          "package_name": "com.example.phone_store_linux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxinTP-WzH_r_8TiJQFrnDGvx41oNaeGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
